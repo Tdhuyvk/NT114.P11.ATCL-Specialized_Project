@@ -1,0 +1,1 @@
+Cấu hình configtx.yaml như trong folder configtx; sử dụng crypto-config.yaml tại folder test-network
