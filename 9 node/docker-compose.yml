@@ -1,0 +1,106 @@
+version: '3.7'
+
+services:
+  node1:
+    build: .
+    container_name: node1
+    environment:
+      - NODE_ID=1
+      - TOTAL_NODES=9
+    volumes:
+      - ./node.py:/app/node.py
+    networks:
+      - raft-net
+
+  node2:
+    build: .
+    container_name: node2
+    environment:
+      - NODE_ID=2
+      - TOTAL_NODES=9
+    volumes:
+      - ./node.py:/app/node.py
+    networks:
+      - raft-net
+
+  node3:
+    build: .
+    container_name: node3
+    environment:
+      - NODE_ID=3
+      - TOTAL_NODES=9
+    volumes:
+      - ./node.py:/app/node.py
+    networks:
+      - raft-net
+
+  node4:
+    build: .
+    container_name: node4
+    environment:
+      - NODE_ID=4
+      - TOTAL_NODES=9
+    volumes:
+      - ./node.py:/app/node.py
+    networks:
+      - raft-net
+
+  node5:
+    build: .
+    container_name: node5
+    environment:
+      - NODE_ID=5
+      - TOTAL_NODES=9
+    volumes:
+      - ./node.py:/app/node.py
+    networks:
+      - raft-net
+
+  node6:
+    build: .
+    container_name: node6
+    environment:
+      - NODE_ID=6
+      - TOTAL_NODES=9
+    volumes:
+      - ./node.py:/app/node.py
+    networks:
+      - raft-net
+
+  node7:
+    build: .
+    container_name: node7
+    environment:
+      - NODE_ID=7
+      - TOTAL_NODES=9
+    volumes:
+      - ./node.py:/app/node.py
+    networks:
+      - raft-net
+
+  node8:
+    build: .
+    container_name: node8
+    environment:
+      - NODE_ID=8
+      - TOTAL_NODES=9
+    volumes:
+      - ./node.py:/app/node.py
+    networks:
+      - raft-net
+
+  node9:
+    build: .
+    container_name: node9
+    environment:
+      - NODE_ID=9
+      - TOTAL_NODES=9
+    volumes:
+      - ./node.py:/app/node.py
+    networks:
+      - raft-net
+
+networks:
+  raft-net:
+    driver: bridge
+

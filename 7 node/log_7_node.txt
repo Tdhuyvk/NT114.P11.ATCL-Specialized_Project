@@ -1,0 +1,464 @@
+[2025-01-23 09:52:51] Event=State Message=Node 0: Đang là follower.
+[2025-01-23 09:52:51] Event=State Message=Node 1: Đang là follower.
+[2025-01-23 09:52:51] Event=State Message=Node 2: Đang là follower.
+[2025-01-23 09:52:51] Event=State Message=Node 3: Đang là follower.
+[2025-01-23 09:52:51] Event=State Message=Node 4: Đang là follower.
+[2025-01-23 09:52:51] Event=State Message=Node 5: Đang là follower.
+[2025-01-23 09:52:51] Event=State Message=Node 6: Đang là follower.
+[2025-01-23 09:52:51] Event=State Message=Node 2: Đang là follower.
+[2025-01-23 09:52:51] Event=Election Message=Node 2: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:51] Event=Candidate Message=Node 2: Đang là candidate trong nhiệm kỳ 1.
+[2025-01-23 09:52:51] Event=Vote Message=Node 2 nhận được phiếu từ Node 0.
+[2025-01-23 09:52:51] Event=Vote Message=Node 2 nhận được phiếu từ Node 1.
+[2025-01-23 09:52:51] Event=Vote Message=Node 2 nhận được phiếu từ Node 3.
+[2025-01-23 09:52:51] Event=Vote Message=Node 2 nhận được phiếu từ Node 4.
+[2025-01-23 09:52:51] Event=Vote Message=Node 2 nhận được phiếu từ Node 5.
+[2025-01-23 09:52:51] Event=Vote Message=Node 2 nhận được phiếu từ Node 6.
+[2025-01-23 09:52:51] Event=State Message=Node 1: Đang là follower.
+[2025-01-23 09:52:51] Event=Election Message=Node 1: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:51] Event=Candidate Message=Node 1: Đang là candidate trong nhiệm kỳ 1.
+[2025-01-23 09:52:51] Event=State Message=Node 0: Đang là follower.
+[2025-01-23 09:52:51] Event=Election Message=Node 0: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:51] Event=Candidate Message=Node 0: Đang là candidate trong nhiệm kỳ 1.
+[2025-01-23 09:52:51] Event=State Message=Node 3: Đang là follower.
+[2025-01-23 09:52:51] Event=Election Message=Node 3: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:51] Event=Candidate Message=Node 3: Đang là candidate trong nhiệm kỳ 1.
+[2025-01-23 09:52:51] Event=State Message=Node 4: Đang là follower.
+[2025-01-23 09:52:51] Event=Election Message=Node 4: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:51] Event=Candidate Message=Node 4: Đang là candidate trong nhiệm kỳ 1.
+[2025-01-23 09:52:51] Event=State Message=Node 5: Đang là follower.
+[2025-01-23 09:52:51] Event=Election Message=Node 5: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:51] Event=Candidate Message=Node 5: Đang là candidate trong nhiệm kỳ 1.
+[2025-01-23 09:52:51] Event=State Message=Node 6: Đang là follower.
+[2025-01-23 09:52:51] Event=Election Message=Node 6: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:51] Event=Candidate Message=Node 6: Đang là candidate trong nhiệm kỳ 1.
+[2025-01-23 09:52:52] Event=Leader Message=Node 2: Trở thành leader trong nhiệm kỳ 1.
+[2025-01-23 09:52:52] Event=Election Message=Node 1: Không đắc cử, trở về follower.
+[2025-01-23 09:52:52] Event=Election Message=Node 3: Không đắc cử, trở về follower.
+[2025-01-23 09:52:52] Event=Election Message=Node 5: Không đắc cử, trở về follower.
+[2025-01-23 09:52:52] Event=Election Message=Node 4: Không đắc cử, trở về follower.
+[2025-01-23 09:52:52] Event=Election Message=Node 0: Không đắc cử, trở về follower.
+[2025-01-23 09:52:52] Event=Election Message=Node 6: Không đắc cử, trở về follower.
+[2025-01-23 09:52:52] Event=State Message=Node 6: Đang là follower.
+[2025-01-23 09:52:52] Event=Election Message=Node 6: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:52] Event=Candidate Message=Node 6: Đang là candidate trong nhiệm kỳ 2.
+[2025-01-23 09:52:52] Event=State Message=Node 1: Đang là follower.
+[2025-01-23 09:52:52] Event=Election Message=Node 1: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:52] Event=Candidate Message=Node 1: Đang là candidate trong nhiệm kỳ 2.
+[2025-01-23 09:52:52] Event=State Message=Node 5: Đang là follower.
+[2025-01-23 09:52:52] Event=Election Message=Node 5: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:52] Event=Candidate Message=Node 5: Đang là candidate trong nhiệm kỳ 2.
+[2025-01-23 09:52:52] Event=State Message=Node 0: Đang là follower.
+[2025-01-23 09:52:52] Event=Election Message=Node 0: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:52] Event=Candidate Message=Node 0: Đang là candidate trong nhiệm kỳ 2.
+[2025-01-23 09:52:52] Event=State Message=Node 4: Đang là follower.
+[2025-01-23 09:52:52] Event=Election Message=Node 4: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:52] Event=Candidate Message=Node 4: Đang là candidate trong nhiệm kỳ 2.
+[2025-01-23 09:52:52] Event=State Message=Node 3: Đang là follower.
+[2025-01-23 09:52:52] Event=Election Message=Node 3: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:52] Event=Candidate Message=Node 3: Đang là candidate trong nhiệm kỳ 2.
+[2025-01-23 09:52:52] Event=Heartbeat Message=Node 2: Đang là leader, gửi heartbeat.
+[2025-01-23 09:52:52] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 0.
+[2025-01-23 09:52:52] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 1.
+[2025-01-23 09:52:52] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 3.
+[2025-01-23 09:52:52] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 4.
+[2025-01-23 09:52:52] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 5.
+[2025-01-23 09:52:52] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 6.
+[2025-01-23 09:52:53] Event=Election Message=Node 6: Không đắc cử, trở về follower.
+[2025-01-23 09:52:53] Event=Election Message=Node 0: Không đắc cử, trở về follower.
+[2025-01-23 09:52:53] Event=Election Message=Node 4: Không đắc cử, trở về follower.
+[2025-01-23 09:52:53] Event=Election Message=Node 3: Không đắc cử, trở về follower.
+[2025-01-23 09:52:53] Event=Election Message=Node 5: Không đắc cử, trở về follower.
+[2025-01-23 09:52:53] Event=Election Message=Node 1: Không đắc cử, trở về follower.
+[2025-01-23 09:52:53] Event=State Message=Node 4: Đang là follower.
+[2025-01-23 09:52:53] Event=Election Message=Node 4: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:53] Event=Candidate Message=Node 4: Đang là candidate trong nhiệm kỳ 3.
+[2025-01-23 09:52:53] Event=State Message=Node 1: Đang là follower.
+[2025-01-23 09:52:53] Event=Election Message=Node 1: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:53] Event=State Message=Node 0: Đang là follower.
+[2025-01-23 09:52:53] Event=Election Message=Node 0: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:53] Event=Candidate Message=Node 0: Đang là candidate trong nhiệm kỳ 3.
+[2025-01-23 09:52:53] Event=State Message=Node 3: Đang là follower.
+[2025-01-23 09:52:53] Event=Election Message=Node 3: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:53] Event=Candidate Message=Node 3: Đang là candidate trong nhiệm kỳ 3.
+[2025-01-23 09:52:53] Event=State Message=Node 5: Đang là follower.
+[2025-01-23 09:52:53] Event=Election Message=Node 5: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:53] Event=Candidate Message=Node 5: Đang là candidate trong nhiệm kỳ 3.
+[2025-01-23 09:52:53] Event=Candidate Message=Node 1: Đang là candidate trong nhiệm kỳ 3.
+[2025-01-23 09:52:53] Event=State Message=Node 6: Đang là follower.
+[2025-01-23 09:52:53] Event=Election Message=Node 6: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:53] Event=Candidate Message=Node 6: Đang là candidate trong nhiệm kỳ 3.
+[2025-01-23 09:52:54] Event=Heartbeat Message=Node 2: Đang là leader, gửi heartbeat.
+[2025-01-23 09:52:54] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 0.
+[2025-01-23 09:52:54] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 1.
+[2025-01-23 09:52:54] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 3.
+[2025-01-23 09:52:54] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 4.
+[2025-01-23 09:52:54] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 5.
+[2025-01-23 09:52:54] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 6.
+[2025-01-23 09:52:54] Event=Election Message=Node 4: Không đắc cử, trở về follower.
+[2025-01-23 09:52:54] Event=Election Message=Node 3: Không đắc cử, trở về follower.
+[2025-01-23 09:52:54] Event=Election Message=Node 1: Không đắc cử, trở về follower.
+[2025-01-23 09:52:54] Event=Election Message=Node 0: Không đắc cử, trở về follower.
+[2025-01-23 09:52:54] Event=Election Message=Node 5: Không đắc cử, trở về follower.
+[2025-01-23 09:52:54] Event=Election Message=Node 6: Không đắc cử, trở về follower.
+[2025-01-23 09:52:54] Event=State Message=Node 3: Đang là follower.
+[2025-01-23 09:52:54] Event=State Message=Node 4: Đang là follower.
+[2025-01-23 09:52:54] Event=State Message=Node 5: Đang là follower.
+[2025-01-23 09:52:54] Event=State Message=Node 1: Đang là follower.
+[2025-01-23 09:52:54] Event=State Message=Node 0: Đang là follower.
+[2025-01-23 09:52:54] Event=State Message=Node 6: Đang là follower.
+[2025-01-23 09:52:55] Event=State Message=Node 4: Đang là follower.
+[2025-01-23 09:52:55] Event=Election Message=Node 4: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:55] Event=Candidate Message=Node 4: Đang là candidate trong nhiệm kỳ 4.
+[2025-01-23 09:52:55] Event=State Message=Node 5: Đang là follower.
+[2025-01-23 09:52:55] Event=Election Message=Node 5: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:55] Event=Candidate Message=Node 5: Đang là candidate trong nhiệm kỳ 4.
+[2025-01-23 09:52:55] Event=State Message=Node 3: Đang là follower.
+[2025-01-23 09:52:55] Event=Election Message=Node 3: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:55] Event=Candidate Message=Node 3: Đang là candidate trong nhiệm kỳ 4.
+[2025-01-23 09:52:55] Event=State Message=Node 6: Đang là follower.
+[2025-01-23 09:52:55] Event=Election Message=Node 6: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:55] Event=Candidate Message=Node 6: Đang là candidate trong nhiệm kỳ 4.
+[2025-01-23 09:52:55] Event=State Message=Node 1: Đang là follower.
+[2025-01-23 09:52:55] Event=Election Message=Node 1: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:55] Event=Candidate Message=Node 1: Đang là candidate trong nhiệm kỳ 4.
+[2025-01-23 09:52:55] Event=State Message=Node 0: Đang là follower.
+[2025-01-23 09:52:55] Event=Election Message=Node 0: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:55] Event=Candidate Message=Node 0: Đang là candidate trong nhiệm kỳ 4.
+[2025-01-23 09:52:56] Event=Election Message=Node 3: Không đắc cử, trở về follower.
+[2025-01-23 09:52:56] Event=Election Message=Node 5: Không đắc cử, trở về follower.
+[2025-01-23 09:52:56] Event=Election Message=Node 4: Không đắc cử, trở về follower.
+[2025-01-23 09:52:56] Event=State Message=Node 4: Đang là follower.
+[2025-01-23 09:52:56] Event=Election Message=Node 4: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:56] Event=Candidate Message=Node 4: Đang là candidate trong nhiệm kỳ 5.
+[2025-01-23 09:52:56] Event=Election Message=Node 1: Không đắc cử, trở về follower.
+[2025-01-23 09:52:56] Event=State Message=Node 1: Đang là follower.
+[2025-01-23 09:52:56] Event=Election Message=Node 1: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:56] Event=Candidate Message=Node 1: Đang là candidate trong nhiệm kỳ 5.
+[2025-01-23 09:52:56] Event=Election Message=Node 0: Không đắc cử, trở về follower.
+[2025-01-23 09:52:56] Event=State Message=Node 0: Đang là follower.
+[2025-01-23 09:52:56] Event=Election Message=Node 0: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:56] Event=Candidate Message=Node 0: Đang là candidate trong nhiệm kỳ 5.
+[2025-01-23 09:52:56] Event=Election Message=Node 6: Không đắc cử, trở về follower.
+[2025-01-23 09:52:56] Event=State Message=Node 6: Đang là follower.
+[2025-01-23 09:52:56] Event=Election Message=Node 6: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:56] Event=Candidate Message=Node 6: Đang là candidate trong nhiệm kỳ 5.
+[2025-01-23 09:52:56] Event=State Message=Node 3: Đang là follower.
+[2025-01-23 09:52:56] Event=Election Message=Node 3: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:56] Event=Candidate Message=Node 3: Đang là candidate trong nhiệm kỳ 5.
+[2025-01-23 09:52:56] Event=State Message=Node 5: Đang là follower.
+[2025-01-23 09:52:56] Event=Election Message=Node 5: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:56] Event=Candidate Message=Node 5: Đang là candidate trong nhiệm kỳ 5.
+[2025-01-23 09:52:56] Event=Heartbeat Message=Node 2: Đang là leader, gửi heartbeat.
+[2025-01-23 09:52:56] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 0.
+[2025-01-23 09:52:56] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 1.
+[2025-01-23 09:52:56] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 3.
+[2025-01-23 09:52:56] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 4.
+[2025-01-23 09:52:56] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 5.
+[2025-01-23 09:52:56] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 6.
+[2025-01-23 09:52:57] Event=Election Message=Node 4: Không đắc cử, trở về follower.
+[2025-01-23 09:52:57] Event=State Message=Node 4: Đang là follower.
+[2025-01-23 09:52:57] Event=Election Message=Node 4: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:57] Event=Candidate Message=Node 4: Đang là candidate trong nhiệm kỳ 6.
+[2025-01-23 09:52:57] Event=Election Message=Node 1: Không đắc cử, trở về follower.
+[2025-01-23 09:52:57] Event=State Message=Node 1: Đang là follower.
+[2025-01-23 09:52:57] Event=Election Message=Node 1: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:57] Event=Candidate Message=Node 1: Đang là candidate trong nhiệm kỳ 6.
+[2025-01-23 09:52:57] Event=Election Message=Node 6: Không đắc cử, trở về follower.
+[2025-01-23 09:52:57] Event=Election Message=Node 3: Không đắc cử, trở về follower.
+[2025-01-23 09:52:57] Event=Election Message=Node 0: Không đắc cử, trở về follower.
+[2025-01-23 09:52:57] Event=Election Message=Node 5: Không đắc cử, trở về follower.
+[2025-01-23 09:52:57] Event=State Message=Node 0: Đang là follower.
+[2025-01-23 09:52:57] Event=Election Message=Node 0: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:57] Event=Candidate Message=Node 0: Đang là candidate trong nhiệm kỳ 6.
+[2025-01-23 09:52:57] Event=State Message=Node 6: Đang là follower.
+[2025-01-23 09:52:57] Event=Election Message=Node 6: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:57] Event=Candidate Message=Node 6: Đang là candidate trong nhiệm kỳ 6.
+[2025-01-23 09:52:57] Event=State Message=Node 5: Đang là follower.
+[2025-01-23 09:52:57] Event=Election Message=Node 5: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:57] Event=Candidate Message=Node 5: Đang là candidate trong nhiệm kỳ 6.
+[2025-01-23 09:52:57] Event=State Message=Node 3: Đang là follower.
+[2025-01-23 09:52:57] Event=Election Message=Node 3: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:57] Event=Candidate Message=Node 3: Đang là candidate trong nhiệm kỳ 6.
+[2025-01-23 09:52:58] Event=Election Message=Node 4: Không đắc cử, trở về follower.
+[2025-01-23 09:52:58] Event=Election Message=Node 1: Không đắc cử, trở về follower.
+[2025-01-23 09:52:58] Event=State Message=Node 4: Đang là follower.
+[2025-01-23 09:52:58] Event=Election Message=Node 4: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:58] Event=Candidate Message=Node 4: Đang là candidate trong nhiệm kỳ 7.
+[2025-01-23 09:52:58] Event=State Message=Node 1: Đang là follower.
+[2025-01-23 09:52:58] Event=Election Message=Node 1: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:58] Event=Candidate Message=Node 1: Đang là candidate trong nhiệm kỳ 7.
+[2025-01-23 09:52:58] Event=Election Message=Node 0: Không đắc cử, trở về follower.
+[2025-01-23 09:52:58] Event=Election Message=Node 3: Không đắc cử, trở về follower.
+[2025-01-23 09:52:58] Event=Election Message=Node 5: Không đắc cử, trở về follower.
+[2025-01-23 09:52:58] Event=State Message=Node 5: Đang là follower.
+[2025-01-23 09:52:58] Event=Election Message=Node 5: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:58] Event=Candidate Message=Node 5: Đang là candidate trong nhiệm kỳ 7.
+[2025-01-23 09:52:58] Event=Election Message=Node 6: Không đắc cử, trở về follower.
+[2025-01-23 09:52:58] Event=State Message=Node 0: Đang là follower.
+[2025-01-23 09:52:58] Event=State Message=Node 3: Đang là follower.
+[2025-01-23 09:52:58] Event=Election Message=Node 3: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:58] Event=Candidate Message=Node 3: Đang là candidate trong nhiệm kỳ 7.
+[2025-01-23 09:52:58] Event=State Message=Node 6: Đang là follower.
+[2025-01-23 09:52:58] Event=Election Message=Node 6: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:58] Event=Candidate Message=Node 6: Đang là candidate trong nhiệm kỳ 7.
+[2025-01-23 09:52:58] Event=Election Message=Node 0: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:58] Event=Candidate Message=Node 0: Đang là candidate trong nhiệm kỳ 7.
+[2025-01-23 09:52:58] Event=Heartbeat Message=Node 2: Đang là leader, gửi heartbeat.
+[2025-01-23 09:52:58] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 0.
+[2025-01-23 09:52:58] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 1.
+[2025-01-23 09:52:58] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 3.
+[2025-01-23 09:52:58] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 4.
+[2025-01-23 09:52:58] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 5.
+[2025-01-23 09:52:58] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 6.
+[2025-01-23 09:52:59] Event=Election Message=Node 1: Không đắc cử, trở về follower.
+[2025-01-23 09:52:59] Event=Election Message=Node 4: Không đắc cử, trở về follower.
+[2025-01-23 09:52:59] Event=State Message=Node 1: Đang là follower.
+[2025-01-23 09:52:59] Event=Election Message=Node 1: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:59] Event=Candidate Message=Node 1: Đang là candidate trong nhiệm kỳ 8.
+[2025-01-23 09:52:59] Event=State Message=Node 4: Đang là follower.
+[2025-01-23 09:52:59] Event=Election Message=Node 4: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:59] Event=Candidate Message=Node 4: Đang là candidate trong nhiệm kỳ 8.
+[2025-01-23 09:52:59] Event=Election Message=Node 0: Không đắc cử, trở về follower.
+[2025-01-23 09:52:59] Event=Election Message=Node 6: Không đắc cử, trở về follower.
+[2025-01-23 09:52:59] Event=Election Message=Node 3: Không đắc cử, trở về follower.
+[2025-01-23 09:52:59] Event=Election Message=Node 5: Không đắc cử, trở về follower.
+[2025-01-23 09:52:59] Event=State Message=Node 5: Đang là follower.
+[2025-01-23 09:52:59] Event=Election Message=Node 5: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:59] Event=Candidate Message=Node 5: Đang là candidate trong nhiệm kỳ 8.
+[2025-01-23 09:52:59] Event=State Message=Node 6: Đang là follower.
+[2025-01-23 09:52:59] Event=Election Message=Node 6: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:59] Event=Candidate Message=Node 6: Đang là candidate trong nhiệm kỳ 8.
+[2025-01-23 09:52:59] Event=State Message=Node 3: Đang là follower.
+[2025-01-23 09:52:59] Event=Election Message=Node 3: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:59] Event=Candidate Message=Node 3: Đang là candidate trong nhiệm kỳ 8.
+[2025-01-23 09:52:59] Event=State Message=Node 0: Đang là follower.
+[2025-01-23 09:52:59] Event=Election Message=Node 0: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:52:59] Event=Candidate Message=Node 0: Đang là candidate trong nhiệm kỳ 8.
+[2025-01-23 09:53:00] Event=Election Message=Node 1: Không đắc cử, trở về follower.
+[2025-01-23 09:53:00] Event=Election Message=Node 4: Không đắc cử, trở về follower.
+[2025-01-23 09:53:00] Event=State Message=Node 1: Đang là follower.
+[2025-01-23 09:53:00] Event=Election Message=Node 1: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:00] Event=Candidate Message=Node 1: Đang là candidate trong nhiệm kỳ 9.
+[2025-01-23 09:53:00] Event=State Message=Node 4: Đang là follower.
+[2025-01-23 09:53:00] Event=Election Message=Node 4: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:00] Event=Candidate Message=Node 4: Đang là candidate trong nhiệm kỳ 9.
+[2025-01-23 09:53:00] Event=Election Message=Node 5: Không đắc cử, trở về follower.
+[2025-01-23 09:53:00] Event=Election Message=Node 3: Không đắc cử, trở về follower.
+[2025-01-23 09:53:00] Event=Election Message=Node 0: Không đắc cử, trở về follower.
+[2025-01-23 09:53:00] Event=State Message=Node 0: Đang là follower.
+[2025-01-23 09:53:00] Event=Election Message=Node 0: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:00] Event=Candidate Message=Node 0: Đang là candidate trong nhiệm kỳ 9.
+[2025-01-23 09:53:00] Event=State Message=Node 3: Đang là follower.
+[2025-01-23 09:53:00] Event=Election Message=Node 3: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:00] Event=Candidate Message=Node 3: Đang là candidate trong nhiệm kỳ 9.
+[2025-01-23 09:53:00] Event=Election Message=Node 6: Không đắc cử, trở về follower.
+[2025-01-23 09:53:00] Event=State Message=Node 6: Đang là follower.
+[2025-01-23 09:53:00] Event=Election Message=Node 6: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:00] Event=Candidate Message=Node 6: Đang là candidate trong nhiệm kỳ 9.
+[2025-01-23 09:53:00] Event=State Message=Node 5: Đang là follower.
+[2025-01-23 09:53:00] Event=Election Message=Node 5: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:00] Event=Candidate Message=Node 5: Đang là candidate trong nhiệm kỳ 9.
+[2025-01-23 09:53:00] Event=Heartbeat Message=Node 2: Đang là leader, gửi heartbeat.
+[2025-01-23 09:53:00] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 0.
+[2025-01-23 09:53:00] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 1.
+[2025-01-23 09:53:00] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 3.
+[2025-01-23 09:53:00] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 4.
+[2025-01-23 09:53:00] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 5.
+[2025-01-23 09:53:00] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 6.
+[2025-01-23 09:53:01] Event=Election Message=Node 4: Không đắc cử, trở về follower.
+[2025-01-23 09:53:01] Event=Election Message=Node 1: Không đắc cử, trở về follower.
+[2025-01-23 09:53:01] Event=State Message=Node 4: Đang là follower.
+[2025-01-23 09:53:01] Event=Election Message=Node 4: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:01] Event=Candidate Message=Node 4: Đang là candidate trong nhiệm kỳ 10.
+[2025-01-23 09:53:01] Event=State Message=Node 1: Đang là follower.
+[2025-01-23 09:53:01] Event=Election Message=Node 1: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:01] Event=Candidate Message=Node 1: Đang là candidate trong nhiệm kỳ 10.
+[2025-01-23 09:53:01] Event=Election Message=Node 0: Không đắc cử, trở về follower.
+[2025-01-23 09:53:01] Event=Election Message=Node 6: Không đắc cử, trở về follower.
+[2025-01-23 09:53:01] Event=State Message=Node 0: Đang là follower.
+[2025-01-23 09:53:01] Event=Election Message=Node 0: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:01] Event=Candidate Message=Node 0: Đang là candidate trong nhiệm kỳ 10.
+[2025-01-23 09:53:01] Event=Election Message=Node 3: Không đắc cử, trở về follower.
+[2025-01-23 09:53:01] Event=State Message=Node 3: Đang là follower.
+[2025-01-23 09:53:01] Event=Election Message=Node 3: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:01] Event=Candidate Message=Node 3: Đang là candidate trong nhiệm kỳ 10.
+[2025-01-23 09:53:01] Event=Election Message=Node 5: Không đắc cử, trở về follower.
+[2025-01-23 09:53:01] Event=State Message=Node 6: Đang là follower.
+[2025-01-23 09:53:01] Event=Election Message=Node 6: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:01] Event=Candidate Message=Node 6: Đang là candidate trong nhiệm kỳ 10.
+[2025-01-23 09:53:01] Event=State Message=Node 5: Đang là follower.
+[2025-01-23 09:53:01] Event=Election Message=Node 5: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:01] Event=Candidate Message=Node 5: Đang là candidate trong nhiệm kỳ 10.
+[2025-01-23 09:53:02] Event=Election Message=Node 4: Không đắc cử, trở về follower.
+[2025-01-23 09:53:02] Event=Election Message=Node 1: Không đắc cử, trở về follower.
+[2025-01-23 09:53:02] Event=State Message=Node 4: Đang là follower.
+[2025-01-23 09:53:02] Event=Election Message=Node 4: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:02] Event=Candidate Message=Node 4: Đang là candidate trong nhiệm kỳ 11.
+[2025-01-23 09:53:02] Event=State Message=Node 1: Đang là follower.
+[2025-01-23 09:53:02] Event=Election Message=Node 1: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:02] Event=Candidate Message=Node 1: Đang là candidate trong nhiệm kỳ 11.
+[2025-01-23 09:53:02] Event=Election Message=Node 0: Không đắc cử, trở về follower.
+[2025-01-23 09:53:02] Event=Election Message=Node 3: Không đắc cử, trở về follower.
+[2025-01-23 09:53:02] Event=Election Message=Node 6: Không đắc cử, trở về follower.
+[2025-01-23 09:53:02] Event=Election Message=Node 5: Không đắc cử, trở về follower.
+[2025-01-23 09:53:02] Event=State Message=Node 3: Đang là follower.
+[2025-01-23 09:53:02] Event=Election Message=Node 3: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:02] Event=Candidate Message=Node 3: Đang là candidate trong nhiệm kỳ 11.
+[2025-01-23 09:53:02] Event=State Message=Node 6: Đang là follower.
+[2025-01-23 09:53:02] Event=Election Message=Node 6: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:02] Event=Candidate Message=Node 6: Đang là candidate trong nhiệm kỳ 11.
+[2025-01-23 09:53:02] Event=State Message=Node 5: Đang là follower.
+[2025-01-23 09:53:02] Event=Election Message=Node 5: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:02] Event=Candidate Message=Node 5: Đang là candidate trong nhiệm kỳ 11.
+[2025-01-23 09:53:02] Event=State Message=Node 0: Đang là follower.
+[2025-01-23 09:53:02] Event=Election Message=Node 0: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:02] Event=Candidate Message=Node 0: Đang là candidate trong nhiệm kỳ 11.
+[2025-01-23 09:53:02] Event=Heartbeat Message=Node 2: Đang là leader, gửi heartbeat.
+[2025-01-23 09:53:02] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 0.
+[2025-01-23 09:53:02] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 1.
+[2025-01-23 09:53:02] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 3.
+[2025-01-23 09:53:02] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 4.
+[2025-01-23 09:53:02] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 5.
+[2025-01-23 09:53:02] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 6.
+[2025-01-23 09:53:03] Event=Election Message=Node 4: Không đắc cử, trở về follower.
+[2025-01-23 09:53:03] Event=State Message=Node 4: Đang là follower.
+[2025-01-23 09:53:03] Event=Election Message=Node 4: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:03] Event=Candidate Message=Node 4: Đang là candidate trong nhiệm kỳ 12.
+[2025-01-23 09:53:03] Event=Election Message=Node 1: Không đắc cử, trở về follower.
+[2025-01-23 09:53:03] Event=State Message=Node 1: Đang là follower.
+[2025-01-23 09:53:03] Event=Election Message=Node 1: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:03] Event=Candidate Message=Node 1: Đang là candidate trong nhiệm kỳ 12.
+[2025-01-23 09:53:03] Event=Election Message=Node 3: Không đắc cử, trở về follower.
+[2025-01-23 09:53:03] Event=Election Message=Node 6: Không đắc cử, trở về follower.
+[2025-01-23 09:53:03] Event=State Message=Node 3: Đang là follower.
+[2025-01-23 09:53:03] Event=Election Message=Node 3: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:03] Event=Candidate Message=Node 3: Đang là candidate trong nhiệm kỳ 12.
+[2025-01-23 09:53:03] Event=Election Message=Node 0: Không đắc cử, trở về follower.
+[2025-01-23 09:53:03] Event=State Message=Node 0: Đang là follower.
+[2025-01-23 09:53:03] Event=Election Message=Node 0: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:03] Event=Candidate Message=Node 0: Đang là candidate trong nhiệm kỳ 12.
+[2025-01-23 09:53:03] Event=Election Message=Node 5: Không đắc cử, trở về follower.
+[2025-01-23 09:53:03] Event=State Message=Node 5: Đang là follower.
+[2025-01-23 09:53:03] Event=Election Message=Node 5: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:03] Event=Candidate Message=Node 5: Đang là candidate trong nhiệm kỳ 12.
+[2025-01-23 09:53:03] Event=State Message=Node 6: Đang là follower.
+[2025-01-23 09:53:03] Event=Election Message=Node 6: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:03] Event=Candidate Message=Node 6: Đang là candidate trong nhiệm kỳ 12.
+[2025-01-23 09:53:04] Event=Election Message=Node 4: Không đắc cử, trở về follower.
+[2025-01-23 09:53:04] Event=Election Message=Node 1: Không đắc cử, trở về follower.
+[2025-01-23 09:53:04] Event=State Message=Node 4: Đang là follower.
+[2025-01-23 09:53:04] Event=Election Message=Node 4: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:04] Event=Candidate Message=Node 4: Đang là candidate trong nhiệm kỳ 13.
+[2025-01-23 09:53:04] Event=State Message=Node 1: Đang là follower.
+[2025-01-23 09:53:04] Event=Election Message=Node 1: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:04] Event=Candidate Message=Node 1: Đang là candidate trong nhiệm kỳ 13.
+[2025-01-23 09:53:04] Event=Election Message=Node 3: Không đắc cử, trở về follower.
+[2025-01-23 09:53:04] Event=State Message=Node 3: Đang là follower.
+[2025-01-23 09:53:04] Event=Election Message=Node 3: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:04] Event=Candidate Message=Node 3: Đang là candidate trong nhiệm kỳ 13.
+[2025-01-23 09:53:04] Event=Election Message=Node 6: Không đắc cử, trở về follower.
+[2025-01-23 09:53:04] Event=State Message=Node 6: Đang là follower.
+[2025-01-23 09:53:04] Event=Election Message=Node 6: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:04] Event=Candidate Message=Node 6: Đang là candidate trong nhiệm kỳ 13.
+[2025-01-23 09:53:04] Event=Election Message=Node 5: Không đắc cử, trở về follower.
+[2025-01-23 09:53:04] Event=State Message=Node 5: Đang là follower.
+[2025-01-23 09:53:04] Event=Election Message=Node 5: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:04] Event=Candidate Message=Node 5: Đang là candidate trong nhiệm kỳ 13.
+[2025-01-23 09:53:04] Event=Election Message=Node 0: Không đắc cử, trở về follower.
+[2025-01-23 09:53:04] Event=State Message=Node 0: Đang là follower.
+[2025-01-23 09:53:04] Event=Election Message=Node 0: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:04] Event=Candidate Message=Node 0: Đang là candidate trong nhiệm kỳ 13.
+[2025-01-23 09:53:04] Event=Heartbeat Message=Node 2: Đang là leader, gửi heartbeat.
+[2025-01-23 09:53:04] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 0.
+[2025-01-23 09:53:04] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 1.
+[2025-01-23 09:53:04] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 3.
+[2025-01-23 09:53:04] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 4.
+[2025-01-23 09:53:04] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 5.
+[2025-01-23 09:53:04] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 6.
+[2025-01-23 09:53:05] Event=Election Message=Node 1: Không đắc cử, trở về follower.
+[2025-01-23 09:53:05] Event=Election Message=Node 4: Không đắc cử, trở về follower.
+[2025-01-23 09:53:05] Event=State Message=Node 4: Đang là follower.
+[2025-01-23 09:53:05] Event=Election Message=Node 4: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:05] Event=Candidate Message=Node 4: Đang là candidate trong nhiệm kỳ 14.
+[2025-01-23 09:53:05] Event=State Message=Node 1: Đang là follower.
+[2025-01-23 09:53:05] Event=Election Message=Node 1: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:05] Event=Candidate Message=Node 1: Đang là candidate trong nhiệm kỳ 14.
+[2025-01-23 09:53:05] Event=Election Message=Node 3: Không đắc cử, trở về follower.
+[2025-01-23 09:53:05] Event=Election Message=Node 6: Không đắc cử, trở về follower.
+[2025-01-23 09:53:05] Event=State Message=Node 3: Đang là follower.
+[2025-01-23 09:53:05] Event=Election Message=Node 3: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:05] Event=Candidate Message=Node 3: Đang là candidate trong nhiệm kỳ 14.
+[2025-01-23 09:53:05] Event=Election Message=Node 5: Không đắc cử, trở về follower.
+[2025-01-23 09:53:05] Event=Election Message=Node 0: Không đắc cử, trở về follower.
+[2025-01-23 09:53:05] Event=State Message=Node 5: Đang là follower.
+[2025-01-23 09:53:05] Event=Election Message=Node 5: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:05] Event=Candidate Message=Node 5: Đang là candidate trong nhiệm kỳ 14.
+[2025-01-23 09:53:05] Event=State Message=Node 6: Đang là follower.
+[2025-01-23 09:53:05] Event=Election Message=Node 6: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:05] Event=Candidate Message=Node 6: Đang là candidate trong nhiệm kỳ 14.
+[2025-01-23 09:53:05] Event=State Message=Node 0: Đang là follower.
+[2025-01-23 09:53:05] Event=Election Message=Node 0: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:05] Event=Candidate Message=Node 0: Đang là candidate trong nhiệm kỳ 14.
+[2025-01-23 09:53:06] Event=Election Message=Node 4: Không đắc cử, trở về follower.
+[2025-01-23 09:53:06] Event=Election Message=Node 1: Không đắc cử, trở về follower.
+[2025-01-23 09:53:06] Event=State Message=Node 4: Đang là follower.
+[2025-01-23 09:53:06] Event=Election Message=Node 4: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:06] Event=Candidate Message=Node 4: Đang là candidate trong nhiệm kỳ 15.
+[2025-01-23 09:53:06] Event=State Message=Node 1: Đang là follower.
+[2025-01-23 09:53:06] Event=Election Message=Node 1: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:06] Event=Candidate Message=Node 1: Đang là candidate trong nhiệm kỳ 15.
+[2025-01-23 09:53:06] Event=Election Message=Node 3: Không đắc cử, trở về follower.
+[2025-01-23 09:53:06] Event=State Message=Node 3: Đang là follower.
+[2025-01-23 09:53:06] Event=Election Message=Node 3: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:06] Event=Candidate Message=Node 3: Đang là candidate trong nhiệm kỳ 15.
+[2025-01-23 09:53:06] Event=Election Message=Node 5: Không đắc cử, trở về follower.
+[2025-01-23 09:53:06] Event=Election Message=Node 0: Không đắc cử, trở về follower.
+[2025-01-23 09:53:06] Event=Election Message=Node 6: Không đắc cử, trở về follower.
+[2025-01-23 09:53:06] Event=State Message=Node 5: Đang là follower.
+[2025-01-23 09:53:06] Event=Election Message=Node 5: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:06] Event=Candidate Message=Node 5: Đang là candidate trong nhiệm kỳ 15.
+[2025-01-23 09:53:06] Event=State Message=Node 6: Đang là follower.
+[2025-01-23 09:53:06] Event=Election Message=Node 6: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:06] Event=Candidate Message=Node 6: Đang là candidate trong nhiệm kỳ 15.
+[2025-01-23 09:53:06] Event=State Message=Node 0: Đang là follower.
+[2025-01-23 09:53:06] Event=Election Message=Node 0: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:06] Event=Candidate Message=Node 0: Đang là candidate trong nhiệm kỳ 15.
+[2025-01-23 09:53:06] Event=Heartbeat Message=Node 2: Đang là leader, gửi heartbeat.
+[2025-01-23 09:53:06] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 0.
+[2025-01-23 09:53:06] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 1.
+[2025-01-23 09:53:06] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 3.
+[2025-01-23 09:53:06] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 4.
+[2025-01-23 09:53:06] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 5.
+[2025-01-23 09:53:06] Event=Heartbeat Message=Node 2 gửi heartbeat đến Node 6.
+[2025-01-23 09:53:07] Event=Election Message=Node 4: Không đắc cử, trở về follower.
+[2025-01-23 09:53:07] Event=Election Message=Node 1: Không đắc cử, trở về follower.
+[2025-01-23 09:53:07] Event=State Message=Node 4: Đang là follower.
+[2025-01-23 09:53:07] Event=Election Message=Node 4: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:07] Event=Candidate Message=Node 4: Đang là candidate trong nhiệm kỳ 16.
+[2025-01-23 09:53:07] Event=Election Message=Node 3: Không đắc cử, trở về follower.
+[2025-01-23 09:53:07] Event=State Message=Node 1: Đang là follower.
+[2025-01-23 09:53:07] Event=Election Message=Node 1: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:07] Event=Candidate Message=Node 1: Đang là candidate trong nhiệm kỳ 16.
+[2025-01-23 09:53:07] Event=State Message=Node 3: Đang là follower.
+[2025-01-23 09:53:07] Event=Election Message=Node 3: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:07] Event=Candidate Message=Node 3: Đang là candidate trong nhiệm kỳ 16.
+[2025-01-23 09:53:07] Event=Election Message=Node 5: Không đắc cử, trở về follower.
+[2025-01-23 09:53:07] Event=Election Message=Node 0: Không đắc cử, trở về follower.
+[2025-01-23 09:53:07] Event=Election Message=Node 6: Không đắc cử, trở về follower.
+[2025-01-23 09:53:07] Event=State Message=Node 5: Đang là follower.
+[2025-01-23 09:53:07] Event=Election Message=Node 5: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:07] Event=Candidate Message=Node 5: Đang là candidate trong nhiệm kỳ 16.
+[2025-01-23 09:53:07] Event=State Message=Node 0: Đang là follower.
+[2025-01-23 09:53:07] Event=Election Message=Node 0: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:07] Event=Candidate Message=Node 0: Đang là candidate trong nhiệm kỳ 16.
+[2025-01-23 09:53:07] Event=State Message=Node 6: Đang là follower.
+[2025-01-23 09:53:07] Event=Election Message=Node 6: Timeout, bắt đầu bầu cử.
+[2025-01-23 09:53:07] Event=Candidate Message=Node 6: Đang là candidate trong nhiệm kỳ 16.
+[2025-01-23 09:53:08] Event=Election Message=Node 4: Không đắc cử, trở về follower.
+[2025-01-23 09:53:08] Event=Election Message=Node 3: Không đắc cử, trở về follower.
+[2025-01-23 09:53:08] Event=Election Message=Node 1: Không đắc cử, trở về follower.
+[2025-01-23 09:53:08] Event=Election Message=Node 5: Không đắc cử, trở về follower.
+[2025-01-23 09:53:08] Event=Election Message=Node 0: Không đắc cử, trở về follower.
+[2025-01-23 09:53:08] Event=Election Message=Node 6: Không đắc cử, trở về follower.
+Kết quả đã được lưu vào file 'raft_metrics_7_node.xlsx'.

@@ -1,0 +1,8 @@
+Mức độ trung bình 
+
+Cập nhật 3, 9, 11
+
+Biểu đồ đường thời gian, cpu, memory các kịch bản 3, 5, 7, 9, 11
+
+
+
